@@ -1,0 +1,80 @@
+body
+{
+    background: linear-gradient(to right top, #f19833, #d9259d, #ffa3a3, #0aaa3f, #940039);
+    font-family: Exo;
+}
+
+.headerDiv
+{
+    font-family: Exo;
+    color: lavenderblush;
+}
+
+.headerDiv img
+{
+    width: 100px;
+}
+
+.mainDiv
+{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black;
+}
+
+.mainDiv label
+{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 4px 4px 16px bisque;
+}
+
+#camera, #result
+{
+    border: 3px solid blanchedalmond;
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 5px 18px bisque;
+}
+
+.mainDiv button
+{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 3px 3px 13px bisque;
+}
+
+.footerDiv
+{
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+
+.footerDiv h4
+{
+    padding: 5px; 
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 19px rgb(255, 189, 108);
+}
+
+
+.footerDiv img
+{
+    width: 70px;
+}
+
+.copyright
+{
+    position: fixed;
+    bottom: 0;
+    box-shadow: 5px 5px 19px rgb(17, 0, 114);
+    width: 100%;
+    color: cornsilk;
+    background-color: darkcyan;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
